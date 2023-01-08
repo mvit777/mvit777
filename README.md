@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvit777
 - 👀 I’m interested in C#, blazor, python, php and powershell/bash
-- 🌱 I’m currently learning MQRabbit
+- 🌱 I’m currently learning Symfony 6.2
 - 💞️ I’m looking to collaborate on anything related to line 2
 - 📫 How to reach me marcello.vitali@yahoo.it
 
